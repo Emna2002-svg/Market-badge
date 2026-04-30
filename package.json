@@ -1,0 +1,11 @@
+{
+  "name": "market-badge",
+  "version": "1.0.0",
+  "description": "Live stock badge for Brevo emails",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
